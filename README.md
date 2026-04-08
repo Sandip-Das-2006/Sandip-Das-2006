@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sandip%20Das&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sandip%20Das&descSize=22&descAlignY=55"/>
 
 <br/>
 
@@ -20,8 +20,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sandip-Das-2006)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sandip_das-coder)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandipsdas1234@gmail.com)
-
-</div>
 
 ---
 
@@ -63,6 +61,7 @@
 
 ## 🧑‍💻 About Me
 I am a passionate AIML student with strong interest in AI, coding, and building real-world projects. I enjoy solving problems and continuously learning new technologies.
+
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -97,11 +96,11 @@ I am a passionate AIML student with strong interest in AI, coding, and building 
 
 <div align="center">
 
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandip-Das-2006&theme=tokyonight&hide_border=true" />
 
+</div>
 
-
+---
 
 ## 🎯 LeetCode Stats
 
@@ -131,15 +130,15 @@ I am a passionate AIML student with strong interest in AI, coding, and building 
 
 <div align="center">
 
-
-📚 Deep Learning & Neural Networks
-🧮 Data Structures & Algorithms
-🔥 Machine Learning Algorithms
-🌍 Full Stack Web Development
-📈 Data Science & Visualization
-
+📚 Deep Learning &amp; Neural Networks  
+🧮 Data Structures &amp; Algorithms  
+🔥 Machine Learning Algorithms  
+🌍 Full Stack Web Development  
+📈 Data Science & Visualization  
 
 </div>
+
+---
 
 ## 📈 Contribution Graph
 
