@@ -57,12 +57,6 @@
 ## 💬 Message
 > Thanks for visiting! Let's build something amazing together 🚀
 
----
-
-## 🧑‍💻 About Me
-I am a passionate AIML student with strong interest in AI, coding, and building real-world projects. I enjoy solving problems and continuously learning new technologies.
-
----
 
 ## 🛠️ Tech Stack & Skills
 
