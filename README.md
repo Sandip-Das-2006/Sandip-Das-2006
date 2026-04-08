@@ -30,11 +30,6 @@
 📍 Kolkata, India 🇮🇳  
 🎂 27 January 2006  
 
----
-
-## 📫 Contact Me
-- 📧 Email: sandipsdas1234@gmail.com  
-- 📱 Phone: +91 9046422350  
 
 ---
 
@@ -155,6 +150,8 @@
   <img src="https://img.shields.io/badge/See_My_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+- 📧 Email: sandipsdas1234@gmail.com  
+- 📱 Phone: +91 9046422350  
 <br/><br/>
 
 **💬 Always open to collaborating on AI/ML projects, internships, and exciting ideas!**
